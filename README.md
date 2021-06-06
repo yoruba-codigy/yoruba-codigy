@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  <summary> See Profile Metrics </summary>
+  
+  [![Nothing here? Click to view][imgurl]][imgurl]
+  
+</details>
+
+[imgurl]: https://metrics.lecoq.io/yoruba-codigy?template=classic&languages=1&gists=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FLagos
+  
