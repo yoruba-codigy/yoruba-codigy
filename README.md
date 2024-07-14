@@ -1,4 +1,4 @@
-### Hi there, I'm Damilola 👋
+<!--### Hi there, I'm Damilola 👋-->
 
 <!--
 **yoruba-codigy/yoruba-codigy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +26,18 @@ Here are some ideas to get you started:
   -->
   <!-- [![My Github Stats](https://github-readme-stats.vercel.app/api?username=h4ckitt&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=h4ckitt&count_private=true&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4ckitt&theme=dark&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=h4ckitt&theme=dark) -->
   
-  <a href="https://github-readme-stats.vercel.app/api?username=h4ckitt&count_private=true&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=h4ckitt&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ckitt&theme=dark&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ckitt&theme=dark&layout=compact" />
-</a>
+```go
+package main
+
+
+func main() {
+	adewale_damilola := map[string]any{
+    "title": "Software Devloper/Mistake Engineer/Gopher",
+    "contact": map[string]string{
+      "linkedin": "h4ckit",
+      "email": "h4ckit@duck.com",
+      "twitter": "h4ckit",
+    },
+  }
+}
+```
